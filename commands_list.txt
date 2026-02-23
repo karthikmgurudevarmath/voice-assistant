@@ -1,0 +1,38 @@
+# Voice Assistant Command List
+
+Here is a list of commands you can say to your assistant.
+
+## 🧠 Calculations & Knowledge
+*   "Calculate [expression]" (e.g., "Calculate 50 plus 50", "Calculate 25 times 15")
+*   "What is [topic]?" (e.g., "What is the capital of India?", "Who is Bill Gates?")
+*   "Wikipedia [topic]" (e.g., "Wikipedia Artificial Intelligence")
+
+## 📰 Daily Updates
+*   "News" (Reads top headlines from Times of India)
+*   "The time" (Tells current time)
+*   "Weather" (Tells weather - *Note: Requires OpenWeatherMap API key if not set*)
+
+## 📧 Communication
+*   "Send a mail" (Follows prompts to send email via Gmail)
+*   "Email to Gaurav" (Sends to a pre-set address)
+*   "Send message" (Sends SMS - *Requires Twilio*)
+
+## ⚙️ System & Utilities
+*   "Open Google"
+*   "Open Youtube"
+*   "Open StackOverflow"
+*   "Play music" (Plays from your Music folder)
+*   "Write a note" (Dictate a note to save to jarvis.txt)
+*   "Show note" (Reads back your saved notes)
+*   "Empty recycle bin"
+*   "Lock window"
+*   "Shutdown system"
+*   "Restart"
+*   "Camera" or "Take a photo"
+
+## 💬 Conversation
+*   "How are you"
+*   "Who made you"
+*   "Change name"
+*   "Joke" (Tells a random programming joke)
+*   "Exit" (Stops the assistant)

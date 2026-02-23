@@ -1,0 +1,14 @@
+pyttsx3
+SpeechRecognition
+wikipedia
+wolframalpha
+requests
+winshell
+pyjokes
+ecapture
+twilio
+pyaudio
+beautifulsoup4
+feedparser
+clint
+pywin32
